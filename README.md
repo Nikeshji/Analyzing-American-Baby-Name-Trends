@@ -11,3 +11,18 @@ By analyzing the dataset spanning 101 years, the project will provide insights i
 The analysis will involve querying the dataset to extract relevant information, such as the total number of babies given each name, classifying names based on popularity, identifying top names for each year, and examining the longevity of certain names.
 
 The project will provide a comprehensive understanding of how American baby name tastes have evolved over the years, which names have stood the test of time, and how recent top names compare to those with a longer history of popularity.
+* Problems
+  Trend Analysis
+  Checking trends of few names Over Time
+  Most Popular Names
+  Gender Distribution
+  Name Popularity by Decade
+  Names Over Time
+  Name Longevity
+  Lifespan of Popularity
+  Thematic Analysis
+  Cultural Significance
+  Cultural Impact
+  Pop Culture Influence: Analyze names that spiked due to pop culture
+  Correlation with Societal Changes
+Economic Factors: Look for links between economic events and name popularity.
